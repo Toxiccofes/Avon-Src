@@ -1,0 +1,22 @@
+{
+    "token" : "OTA0MzE3MTQxODY2NjQ3NTky.GxdyMO.h6TRYa4eGsdv3CQoOmo6iqsfE--zCeK1NAXrI8",
+    "prefix" : "+",
+    "color" : "#ff2709",
+    "owners" : ["765841266181144596","1031762635995217920"],
+    "mongourl" : "mongodb+srv://punitkumar:vZ5OczhoKVCILnUc@avon.tmmpm47.mongodb.net/?retryWrites=true&w=majority",
+    "errors" : "https://discord.com/api/webhooks/1081954703279145010/sHGoVkf5AKp42oc-6dycNt2cSvTyaHfVIUATyBLAsRqeQKsnzDwdDFJnlbXZ0rocMjBV",
+    "spotifyId" : "ada2f0339dd340df9aa14c76f33f84f3",
+    "noprefix" : "1065930101650362388",
+    "mongourl2" : "mongodb+srv://Punitkumar94:Ot3zafJ2Y4mN0Nio@managerjs.crsumho.mongodb.net/?retryWrites=true&w=majority",
+    "spotifySecret" : "9fd6d604c0f343b4a998839f43ef88c7",
+    "topggapi" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjkwNDMxNzE0MTg2NjY0NzU5MiIsImJvdCI6dHJ1ZSwiaWF0IjoxNjczNTI3OTYzfQ.WwA0KXh_nAQcBmR7BPqgLGyElYZheTQmguQfA2F6aNc",
+    "server" : "https://discord.gg/avonbot",
+    "nodes" : [
+        {
+        "name" : "Avon",
+        "url" : "p1us.tortoises.studio:4032",
+        "auth" : "youshallnotpass",
+        "secure" : false
+        }
+    ]
+}
